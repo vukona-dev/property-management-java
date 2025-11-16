@@ -1,0 +1,22 @@
+# Build outputs (NetBeans / general)
+build/
+dist/
+out/
+
+# Compiled classes and jars
+*.class
+*.jar
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE metadata (optional to ignore)
+nbproject/private/
+
+# Misc
+*.bak
