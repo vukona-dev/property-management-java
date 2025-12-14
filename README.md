@@ -50,17 +50,3 @@ A Java-based property management system with loan calculation, commission tracki
 3. Run MainMenu.java to launch the application.
 
 4. Use the GUI to add, view, and manage property records.
-
-## File Structure
-
-src/
-├── Property.java
-├── PropertyDA.java
-├── PropertyPD.java
-├── AddSellingProperty.java
-├── MainMenu.java
-├── DuplicateException.java
-├── NotFoundException.java
-└── DataStorageException.java
-
-📄 License
