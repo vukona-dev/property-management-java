@@ -38,7 +38,7 @@ A Java-based property management system with loan calculation, commission tracki
 
 <img src="Screenshots/property1.png" alt="Image1" width="350" height=300/> <img src="Screenshots/property2.png" alt="Image2" width="350" height=300/>
 <img src="Screenshots/property3.png" alt="Image3" width="300" height=300/> <img src="Screenshots/property4.png" alt="Image4" width="350" height=300/>
-<img src="Screenshots/property5.png" alt="Image5" width="400" height=300/>
+<img src="Screenshots/property5.png" alt="Image5" width="410" height=300/>
 
 ## 🚀 How to Run
 
