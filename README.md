@@ -15,7 +15,7 @@ A Java-based property management system with loan calculation, commission tracki
   - `AddSellingProperty`: Form-based input with validation and exception handling.
   - `MainMenu`: Menu-driven interface for viewing, searching, updating, and managing properties.
 
-## 💡 Features
+## Features
 
 - Add new property records with full validation
 - Calculate deposit, loan, monthly repayment, total payment, and interest
@@ -26,7 +26,7 @@ A Java-based property management system with loan calculation, commission tracki
 - Save/load data using object serialization (`property.dat`)
 - Exception handling with custom classes (`DuplicateException`, `NotFoundException`, `DataStorageException`)
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 - Java (JDK 8+)
 - Swing (GUI)
@@ -40,7 +40,7 @@ A Java-based property management system with loan calculation, commission tracki
 <img src="Screenshots/property3.png" alt="Image3" width="300" height=300/> <img src="Screenshots/property4.png" alt="Image4" width="350" height=300/>
 <img src="Screenshots/property5.png" alt="Image5" width="410" height=300/>
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    git clone https://github.com/vukona-dev/property-management-java.git
